@@ -9,3 +9,9 @@
 
 	git clone https://github.com/getazur/blockchain-import.git && cd blockchain-import && chmod +x update.sh
 	./update.sh
+
+### RUN
+
+	azurd
+	zedwallet
+	azur-service
