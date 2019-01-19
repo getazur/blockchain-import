@@ -3,4 +3,4 @@ tar -xvf linux-cli.tar.gz
 rm linux-cli.tar.gz
 git clone https://getazur.org/blockchain.tar.gz
 tar -xvf blockchain.tar.gz
-mv root/blockchain/.Azur /root
+mv ~/blockchain/.Azur /root
