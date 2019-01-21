@@ -12,6 +12,6 @@
 
 ### Command
 
-	azurd
-	zedwallet
-	azur-service
+	azurd (DAEMON)
+	wallet (WALLET)
+	azur-rpc (RPC SERVICES)
