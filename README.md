@@ -15,3 +15,4 @@
 	azurd (DAEMON)
 	wallet (WALLET)
 	azur-rpc (RPC SERVICES)
+	miner (MINING)
