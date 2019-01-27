@@ -1,8 +1,9 @@
-wget https://getazur.org/linux-cli.tar.gz
-wget https://getazur.org/blockchain.tar.gz
-tar -xvf linux-cli.tar.gz
-tar -xvf blockchain.tar.gz
+wget https://github.com/getazur/azur/releases/download/1.1/azur-cli-linux.tar.gz
+wget https://deamon-1.getazur.org/block.tar.gz
+tar -xvf azur-cli-linux.tar.gz
+tar -xvf block.tar.gz
 rm linux-cli.tar.gz
-rm blockchain.tar.gz
-mv root/blockchain/.Azur ~/
+rm block.tar.gz
+mkdir ~/.Azur
+mv root/data/* ~/.Azur/
 mv linux-cli/* /usr/bin
