@@ -2,13 +2,11 @@
 
 ### First Launch (download daemon & blockchain)
 
-	git clone https://github.com/getazur/blockchain-import.git && cd blockchain-import && chmod +x build.sh
-	./build.sh
+	git clone https://github.com/getazur/blockchain-import.git && cd blockchain-import && chmod +x build.sh && ./build.sh
 
 ### Update blockchain
 
-	git clone https://github.com/getazur/blockchain-import.git && cd blockchain-import && chmod +x update.sh
-	./update.sh
+	git clone https://github.com/getazur/blockchain-import.git && cd blockchain-import && chmod +x update.sh && ./update.sh
 
 ### Command
 
