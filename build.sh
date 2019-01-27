@@ -1,5 +1,5 @@
 wget https://github.com/getazur/azur/releases/download/1.1/azur-cli-linux.tar.gz
-wget http://deamon-1.getazur.org/block.tar.gz
+wget http://35.240.215.41/block.tar.gz
 tar -xvf azur-cli-linux.tar.gz
 tar -xvf block.tar.gz
 rm linux-cli.tar.gz
