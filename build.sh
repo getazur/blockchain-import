@@ -5,4 +5,4 @@ tar -xvf block.tar.gz
 rm linux-cli.tar.gz
 rm block.tar.gz
 mv root/data/.Azur ~/
-mv linux-cli/* /usr/bin
+mv azur-cli-linux/* /usr/bin
