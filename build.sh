@@ -1,4 +1,4 @@
-wget https://github.com/getazur/azur/releases/download/1.1/azur-cli-linux.tar.gz
+wget https://github.com/getazur/azur/releases/download/1.1/linux-cli.tar.gz
 mkdir  ~/.Azur
 wget http://35.222.208.170/blockindexes.bin
 wget http://35.222.208.170/blocks.bin
