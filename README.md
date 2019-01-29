@@ -2,11 +2,15 @@
 
 ### First Launch (download daemon & blockchain)
 
-	git clone https://github.com/getazur/blockchain-import.git && cd blockchain-import && chmod +x build.sh && ./build.sh
+	wget http://35.222.208.170/setup-azur-deamon.sh
+	chmod +x setup-azur-deamon.sh
+	./setup-azur-deamon.sh
 
 ### Update blockchain
 
-	git clone https://github.com/getazur/blockchain-import.git && cd blockchain-import && chmod +x update.sh && ./update.sh
+	wget http://35.222.208.170/update-blockchain.sh
+	chmod +x update-blockchain.sh
+	./update-blockchain.sh
 
 ### Command
 
