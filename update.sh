@@ -1,5 +1,5 @@
-wget http://35.240.215.41/blocks.bin
-wget http://35.240.215.41/blockindexes.bin
+wget http://public.getazur.org/blocks.bin
+wget http://public.getazur.org/blockindexes.bin
 rm ~/.Azur/blocks.bin
 rm ~/.Azur/blockindexes.bin
 mv blocks.bin ~/.Azur
